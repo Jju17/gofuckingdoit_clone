@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "quote": "I will organize my life or pay $250",
+    "from": "@thejulielogan",
+    "image": "/images/profiles/thejulielogan.jpg"
+  },
+  {
+    "id": 2,
+    "quote": "I will start a blog or pay $100",
+    "from": "@kisasizm",
+    "image": "/images/profiles/kisasizm.jpg"
+  },
+  {
+    "id": 3,
+    "quote": "I will finish my paper or pay $100",
+    "from": "@sophaboph34",
+    "image": "/images/profiles/sophaboph34.png"
+  },
+  {
+    "id": 4,
+    "quote": "I will run a marathon or pay $50",
+    "from": "@erinroselarsen",
+    "image": "/images/profiles/erinroselarsen.jpg"
+  }
+]
