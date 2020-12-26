@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project is a perfect replica of the [gofuckingdoit.com](gofuckingdoit) website
+This project is a perfect replica of the [gofuckingdoit.com](gofuckingdoit.com) website
 
 This the gofuckingdoit.com was made by [level.io](level.io)
 
